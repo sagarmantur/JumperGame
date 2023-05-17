@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1683712116,
+	"version": 1684313514,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,7 @@
 		"images/gold_-sheet1.png",
 		"images/gold_-sheet2.png",
 		"images/gameover-sheet0.png",
+		"media/bgm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
